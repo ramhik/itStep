@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/1-st console/.vs/1-st console/v16
+/1-st console/Debug
+/1-st console/1-st console/Debug
